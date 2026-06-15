@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gene conversion results</title>
+<style>
+  :root {
+    --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3a;
+    --text: #e2e4ed; --muted: #8b8fa8; --accent: #6c8fff;
+    --green: #4ade80; --amber: #fbbf24; --red: #f87171; --gray: #6b7280;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'SF Mono', 'Fira Code', monospace; font-size: 13px; }
+  header { padding: 20px 24px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: 15px; font-weight: 600; letter-spacing: .5px; color: var(--accent); flex: 1; }
+  #stats { display: flex; gap: 12px; flex-wrap: wrap; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 4px 10px; font-size: 11px; }
+  .stat span { font-weight: 600; }
+  .controls { padding: 12px 24px; display: flex; gap: 10px; flex-wrap: wrap; border-bottom: 1px solid var(--border); }
+  input[type=text] { background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 6px; padding: 6px 12px; font-size: 12px; font-family: inherit; width: 280px; }
+  input[type=text]:focus { outline: none; border-color: var(--accent); }
+  select { background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 6px; padding: 6px 10px; font-size: 12px; font-family: inherit; }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--surface); color: var(--muted); font-size: 11px; font-weight: 500; text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); white-space: nowrap; position: sticky; top: 0; }
+  td { padding: 8px 14px; border-bottom: 1px solid var(--border); vertical-align: top; max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  tr:hover td { background: var(--surface); }
+  .tag { display: inline-block; font-size: 10px; font-weight: 600; padding: 2px 7px; border-radius: 10px; white-space: nowrap; }
+  .tag-converted            { background: #14532d; color: var(--green); }
+  .tag-unconverted_gene     { background: #3d2a00; color: var(--amber); }
+  .tag-gene                 { background: #3d2a00; color: var(--amber); }
+  .traescs { font-size: 11px; color: var(--accent); }
+  .pmid a { color: var(--muted); text-decoration: none; }
+  .pmid a:hover { color: var(--accent); }
+  .source { font-size: 10px; color: var(--muted); }
+  .pagination { display: flex; align-items: center; gap: 8px; padding: 12px 24px; border-top: 1px solid var(--border); }
+  .pagination button { background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 5px; padding: 5px 12px; cursor: pointer; font-family: inherit; font-size: 12px; }
+  .pagination button:hover { border-color: var(--accent); color: var(--accent); }
+  .pagination button:disabled { opacity: .3; cursor: default; }
+  #page-info { color: var(--muted); font-size: 12px; margin: 0 8px; }
+  .ref-cell { max-width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: help; }
+  #loading { padding: 40px; text-align: center; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Gene conversion results</h1>
+  <div id="stats"></div>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search gene, gene set, TraesCS..." oninput="filterData()">
+  <select id="tag-filter" onchange="filterData()">
+    <option value="">All tags</option>
+    <option value="converted">Converted ✓</option>
+    <option value="unconverted_gene">Gene ⚑</option>
+  </select>
+  <select id="page-size" onchange="filterData()">
+    <option value="50">50 per page</option>
+    <option value="100">100 per page</option>
+    <option value="200">200 per page</option>
+  </select>
+</div>
+
+<div class="table-wrap">
+  <div id="loading">Loading results...</div>
+  <table id="table" style="display:none">
+    <thead>
+      <tr>
+        <th>Tag</th>
+        <th>Gene</th>
+        <th>TraesCS ID (v2.1)</th>
+        <th>Source</th>
+        <th>Gene set</th>
+        <th>PMID</th>
+        <th>Journal</th>
+        <th>Reference</th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</div>
+
+<div class="pagination">
+  <button id="btn-prev" onclick="changePage(-1)" disabled>&#8592; Prev</button>
+  <span id="page-info"></span>
+  <button id="btn-next" onclick="changePage(1)">Next &#8594;</button>
+  <span id="count-info" style="margin-left:auto;color:var(--muted);font-size:12px"></span>
+</div>
+
+<script>
+let allData = [];
+let filtered = [];
+let page = 1;
+
+const TAG_LABELS = {
+  "converted":        { label: "converted ✓", cls: "tag-converted" },
+  "unconverted_gene": { label: "gene ⚑",       cls: "tag-gene"      },
+};
+
+async function loadData() {
+  try {
+    const r = await fetch('conversion_results.json');
+    allData = await r.json();
+    renderStats();
+    filterData();
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('table').style.display = 'table';
+  } catch(e) {
+    document.getElementById('loading').textContent = 'Error loading data: ' + e.message;
+  }
+}
+
+function renderStats() {
+  const counts = {};
+  allData.forEach(r => { counts[r.tag] = (counts[r.tag] || 0) + 1; });
+  const el = document.getElementById('stats');
+  const labels = {
+    converted:        ['Converted',       'green'],
+    unconverted_gene: ['Queued for BLAST','amber'],
+  };
+  el.innerHTML = Object.entries(labels).map(([k, [label, color]]) =>
+    `<div class="stat" style="color:var(--${color})"><span>${counts[k]||0}</span> ${label}</div>`
+  ).join('') + `<div class="stat"><span>${allData.length}</span> total</div>`;
+}
+
+function filterData() {
+  const q   = document.getElementById('search').value.toLowerCase();
+  const tag = document.getElementById('tag-filter').value;
+
+  filtered = allData.filter(r => {
+    const matchTag = !tag || r.tag === tag;
+    const matchQ   = !q || [r.gene_input, r.traescs_id,
+                             r.gene_set, r.pmid, r.journal]
+                            .some(v => v && v.toLowerCase().includes(q));
+    return matchTag && matchQ;
+  });
+
+  page = 1;
+  renderPage();
+}
+
+function renderPage() {
+  const ps    = parseInt(document.getElementById('page-size').value);
+  const start = (page - 1) * ps;
+  const rows  = filtered.slice(start, start + ps);
+  const tbody = document.getElementById('tbody');
+
+  tbody.innerHTML = rows.map(r => {
+    const tagInfo = TAG_LABELS[r.tag] || { label: r.tag, cls: 'tag-' + r.tag };
+    return `
+    <tr>
+      <td><span class="tag ${tagInfo.cls}">${tagInfo.label}</span></td>
+      <td>${esc(r.gene_input)}</td>
+      <td>${r.traescs_id ? `<span class="traescs">${esc(r.traescs_id)}</span>` : '<span style="color:var(--muted)">—</span>'}</td>
+      <td><span class="source">${esc(r.conversion_source || '—')}</span></td>
+      <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis">${esc(r.gene_set)}</td>
+      <td class="pmid">${r.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${r.pmid}" target="_blank">${r.pmid}</a>` : '—'}</td>
+      <td>${esc(r.journal || '—')}</td>
+      <td class="ref-cell" title="${esc(r.source_reference || '')}">${esc(r.source_reference || '—')}</td>
+    </tr>`;
+  }).join('');
+
+  const total = filtered.length;
+  const pages = Math.ceil(total / ps) || 1;
+  document.getElementById('page-info').textContent = `Page ${page} of ${pages}`;
+  document.getElementById('count-info').textContent = `${total.toLocaleString()} results`;
+  document.getElementById('btn-prev').disabled = page <= 1;
+  document.getElementById('btn-next').disabled = page >= pages;
+}
+
+function changePage(dir) {
+  const ps    = parseInt(document.getElementById('page-size').value);
+  const pages = Math.ceil(filtered.length / ps) || 1;
+  page = Math.max(1, Math.min(pages, page + dir));
+  renderPage();
+  window.scrollTo(0, 0);
+}
+
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+loadData();
+</script>
+</body>
+</html>

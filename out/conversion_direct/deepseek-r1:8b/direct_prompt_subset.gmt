@@ -1,0 +1,533 @@
+'de novo' CTP biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+'de novo' L-methionine biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+'de novo' cotranslational protein folding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+'de novo' pyrimidine nucleobase biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+(1->3)-beta-D-glucan biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+1,3-beta-D-glucan synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4A03G0059800
+1,4-alpha-glucan branching enzyme activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G0033200
+1,4-alpha-oligoglucan phosphorylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+10-formyltetrahydrofolate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844401	TraesCS4B03G0844402	TraesCS4B03G0844403
+15-cis-phytoene synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+2 iron, 2 sulfur cluster binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000	TraesCS4A01G003200	TraesCS4B03G0844401
+2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+2-(3-amino-3-carboxypropyl)histidine synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+2-isopropylmalate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+2-methyl-6-phytyl-1,4-benzoquinone methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3 iron, 4 sulfur cluster binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34F12345
+3''-deamino-3''-oxonicotianamine reductase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3'(2'),5'-bisphosphate nucleotidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3'-5' DNA helicase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+3'-5' exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0034000
+3'-5'-DNA exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3'-5'-RNA exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0541000
+3'-tRNA processing endoribonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3-dehydroquinate dehydratase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3-isopropylmalate dehydratase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3-isopropylmalate dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+3-phosphoshikimate 1-carboxyvinyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+4-alpha-glucanotransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0031000
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity (ferredoxin)	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5'-3' DNA exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5'-3' DNA helicase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+5'-3' RNA exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+5'-3' exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5'-deoxyribose-5-phosphate lyase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5'-nucleotidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5-diphosphoinositol pentakisphosphate 1-kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+5S rRNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G0031000
+6-phosphofructo-2-kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+6-phosphofructokinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+7S RNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1291000	TraesCS5A03G0017800
+9,9'-di-cis-zeta-carotene desaturase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+90S preribosome	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34F9900
+ABC-type protein transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ABC-type transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+ADP binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+AP-1 adaptor complex	direct_prompt:deepseek-r1:8b	TraesCS6B02G0844000	TraesCS4B03G0844400	TraesCS4A01G0844400	TraesCS4A02G0844400	TraesCS6A01G0844400
+AP-2 adaptor complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+AP-3 adaptor complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000	TraesCS4B03G0844401	TraesCS4B03G0844402	TraesCS6A02G0031001
+ATP binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+ATPase binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+CAAX-box protein maturation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+CAAX-protein geranylgeranyltransferase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844401
+DIMBOA glucoside beta-D-glucosidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+DNA (cytosine-5-)-methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1291000
+DNA alkylation repair	direct_prompt:deepseek-r1:8b	TraesCS6B02G1292000	TraesCS4A01G338000
+DNA binding	direct_prompt:deepseek-r1:8b	TraesCS4A02G09X10	TraesCS6B02G08X10	TraesCS4A01G09X10
+DNA-(apurinic or apyrimidinic site) endonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+GDP-mannose metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+GINS complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000	TraesCS5A01G0033000
+GMP biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+GMP metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G1291200
+GMP synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+Golgi apparatus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+N-glycan processing	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+N-terminal protein amino acid acetylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+N-terminal protein amino acid methylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+N-terminal protein myristoylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+N6-methyladenosine-containing RNA reader activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02B01C0001
+NAD biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+NAD metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS5B03G0268000
+NAD(P)H dehydrogenase complex (plastoquinone)	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G020900	TraesCS3B06G058200
+NAD(P)HX epimerase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+NAD+ kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+NAD-dependent protein lysine deacetylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0034000
+NADH dehydrogenase (ubiquinone) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+NADH dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A97G031000
+NADH dehydrogenase complex (plastoquinone) assembly	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+NADH oxidation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G001360000	TraesCS4B03G0844401	TraesCS4B03G0844402
+NADP binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900	TraesCS6A03G0131200
+NADP biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0120600
+NADP metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B03G0137100
+RNA-templated DNA biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+RQC-trigger complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G3381400	TraesCS4B03G0844401
+Rho protein signal transduction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+SAGA complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000	TraesCS4A01G002300
+TOR signaling	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+abscisic acid-activated signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+acceptance of pollen	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acetate-CoA ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acetolactate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acetolactate synthase regulator activity	direct_prompt:deepseek-r1:8b	TraesCS5A03G0902700
+acetyl-CoA biosynthetic process from pyruvate	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acetyl-CoA carboxylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acetyl-CoA metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0013
+acetylglutamate kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acid phosphatase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acid-amino acid ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+aconitate hydratase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+actin cytoskeleton	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+actin cytoskeleton organization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+actin filament bundle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+actin filament bundle assembly	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0034200	TraesCS3A01G0013200
+actin filament capping	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+actin filament depolymerization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+actin filament organization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS5A01G003420
+actin filament polymerization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+actin filament severing	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+actin filament-based process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS3B03G0082000
+actin nucleation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+activation of protein kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0101000
+acyl-CoA dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+acyl-CoA metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G024100
+acyl-CoA oxidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+acylglycerol transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000	TraesCS5A03G002000
+acyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS6D03G0101800
+adenosine kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+adenosine salvage	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+adenosylmethionine decarboxylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+adenyl ribonucleotide binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+adenyl-nucleotide exchange factor activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V200000
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS6D03G0101800
+adenylate kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+adenylosuccinate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+adenylyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1291000
+allantoin catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+amine metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1281000
+amino acid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+amino acid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS6B02G0010	TraesCS4A01G0010	TraesCS6B02G0009	TraesCS5A01G0010	TraesCS4B02G0001	TraesCS5A03G0010	TraesCS4B02G0002	TraesCS5A03G0011	TraesCS4B02G0003	TraesCS5A03G0012
+amino acid transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+amino acid transmembrane transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+amino acid transport	direct_prompt:deepseek-r1:8b	TraesCS4Aa-777B01	TraesCS6B02-015D01	TraesCS6A02-001C01
+aminopeptidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G129100
+amyloplast	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+anaphase-promoting complex binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+anaphase-promoting complex-dependent catabolic process	direct_prompt:deepseek-r1:8b	TraesCS6B02G0844400	TraesCS4A01G0844400	TraesCS5A03G0844400
+anatomical structure morphogenesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+anchoring junction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+anion binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+anther development	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+anthranilate phosphoribosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+anthranilate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+anthranilate synthase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+antioxidant activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+apoplast	direct_prompt:deepseek-r1:8b	TraesCS6B02G1292000	TraesCS4A01G354200
+arachidonate secretion	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+arginase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+arginine catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+arginine metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900	TraesCS3B02G0102000
+argininosuccinate lyase activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G1274000
+argininosuccinate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+arginyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+arginyl-tRNA--protein transferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+aromatic amino acid family biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G1234500	TraesCS4A01H24G032100
+aromatic amino acid family biosynthetic process, prephenate pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+aromatic amino acid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+ascorbate glutathione cycle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+asparaginase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+asparagine biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+asparagine synthase (glutamine-hydrolyzing) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+asparagine-tRNA ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+asparaginyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+aspartate kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+aspartate-prephenate aminotransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+asymmetric cell division	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+bis(5'-adenosyl)-triphosphatase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+bounding membrane of organelle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G054500
+branched-chain amino acid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+branched-chain amino acid catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A12D10
+branched-chain amino acid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+branched-chain-amino-acid transaminase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+calcium channel activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+calcium import into the mitochondrion	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+calcium ion binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+calcium ion transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+calcium ion transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+calcium-activated cation channel activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V000488000
+calcium-dependent phospholipid binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0991000
+calcium-dependent protein binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+calcium-mediated signaling	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS4B03G0844401	TraesCS6A02G0581001
+callose deposition in cell wall	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+calmodulin binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+carbohydrate binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0013
+carbohydrate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS3B02G0101000	TraesCS5A03G0033000	TraesCS4D01G0007000	TraesCS6A05G0028000	TraesCS7A04G0012000
+defense response to fungus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS4B02G0101000	TraesCS4B03G0857400
+defense response to other organism	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+defense response to virus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+dehydrodolichyl diphosphate synthase complex	direct_prompt:deepseek-r1:8b	TraesCS2B03G1133600
+delta DNA polymerase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A02G0031000
+deoxyhypusine monooxygenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+deoxyhypusine synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+deoxyribodipyrimidine photo-lyase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+deoxyribonucleotide biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000	TraesCS3B02G0097000
+deoxyribonucleotide catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G058200
+dephospho-CoA kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dephosphorylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS4B03G0844401
+detection of hypoxia	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000	TraesCS4A01G002300000
+detection of mechanical stimulus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+detection of stimulus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+dethiobiotin synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+detoxification	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+deubiquitinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+developmental growth	direct_prompt:deepseek-r1:8b	TraesCS6B02G0010	TraesCS4A01G009360	TraesCS6B02G0011	TraesCS4A01G009390
+developmental process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+developmental process involved in reproduction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A12G0584100	TraesCS5B10G0267000	TraesCS3A12G0248000	TraesCS4B03G0844401	TraesCS4B03G0844402	TraesCS5B10G0267001	TraesCS6A12G0584101
+diaminopimelate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dicarboxylic acid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+dicarboxylic acid transmembrane transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+digalactosyldiacylglycerol synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dihydrolipoyl dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dihydrolipoyllysine-residue acetyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dihydropteroate synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dimethylallyl diphosphate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+dipeptidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dipeptide transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0032000	TraesCS6A02G0031000
+dipeptide transmembrane transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+dipeptide transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+gene expression	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34G064100	TraesCS4B92B31G087400	TraesCS6B02G11C0100
+gibberellin 3-beta-dioxygenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+gibberellin biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1293200
+gibberellin metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844391	TraesCS4B03G0844382
+glucan metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+gluconeogenesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS5A01G003100
+glucose 6-phosphate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS3A01G054900
+glucose catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+glucose-6-phosphate 1-epimerase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glucose-6-phosphate dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glucose-6-phosphate isomerase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glucosidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A12G1281000
+glucosinolate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS5A03G008290
+glucosinolate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4AABB001Dcs
+glucosylceramide catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+glucosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glucuronosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate 5-kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate N-acetyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+glutamate catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+glutamate decarboxylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate-5-semialdehyde dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate-cysteine ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4A01G129100
+glutamate-prephenate aminotransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamate-tRNA ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutaminase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamine biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS6B12G099D001	TraesCS5A01G003100	TraesCS4A01G003100
+glutamine family amino acid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+glutamine family amino acid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844401
+glutamine synthetase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamine-tRNA ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutaminyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutamyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0030100
+glutamyl-tRNA(Gln) amidotransferase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000	TraesCS7B03G0098000
+glutathione binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutathione biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844411
+glutathione catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glutathione dehydrogenase (ascorbate) activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G0010
+glutathione gamma-glutamylcysteinyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G0094	TraesCS6B03G0089
+glutathione metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844390	TraesCS4B03G0844380
+glutathione synthase activity	direct_prompt:deepseek-r1:8b	TraesCS6A03G0131200
+glutathione transferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+glutathione-disulfide reductase (NADPH) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glyceraldehyde-3-phosphate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycerol metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G129100	TraesCS6B03G0023700	TraesCS5A03G0017400	TraesCS4D03G0504900
+glycerol-3-phosphate O-acyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycerol-3-phosphate catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G03G001000	TraesCS4B03G0844402
+glycerol-3-phosphate dehydrogenase (NAD+) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycerol-3-phosphate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS4A12V200000
+glycerolipid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844411	TraesCS4B03G0844412
+glycerophospholipid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS4B03G0844401	TraesCS6A02G0581002
+glycine biosynthetic process from serine	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycine cleavage complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G03G0010
+glycine decarboxylation via glycine cleavage system	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycine dehydrogenase (decarboxylating) activity	direct_prompt:deepseek-r1:8b	TraesCS4AABB00127
+glycine hydroxymethyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycine:2-oxoglutarate aminotransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycogen biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+glycogen metabolic process	direct_prompt:deepseek-r1:8b	TraesCS6B02G0581000	TraesCS4B03G0844400
+glycogen phosphorylase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+glycolipid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycolipid mannosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+glycolytic process through fructose-6-phosphate	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G3	TraesCS5A01G3
+glycoprotein metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+glycosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V2000000
+glycyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+heterocyclic compound binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+heterotrimeric G-protein complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0305800	TraesCS6B03G1035600
+hexokinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+hexose metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+hexose transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+hexosyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+histidinol dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G1274000	TraesCS4B03G0844401
+histidinol-phosphatase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+histidinol-phosphate transaminase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+histone H2A acetyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+histone H3K27 methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G0581000
+histone H3K4 methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G0991000
+histone H4 acetyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+histone acetyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+histone acetyltransferase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+histone arginine N-methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+histone deacetylase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+histone methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+homogentisate 1,2-dioxygenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+homologous chromosome pairing at meiosis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+homologous recombination	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0101
+homoserine kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+hormone activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0541000	TraesCS5D01G002420000	TraesCS4B03G0844401
+hormone-mediated signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+late endosome to vacuole transport via multivesicular body sorting pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+leaf morphogenesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6C02G0582000
+leaf senescence	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+leucine-tRNA ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+leucyl-tRNA aminoacylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ligand-gated monoatomic ion channel activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+ligase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4Aa-777B1
+lignin biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G024100	TraesCS6B03G0002500	TraesCS4A01G003100	TraesCS6A03G0007800
+lignin catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS3B02G0582000	TraesCS3B02G0583000
+lignin metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000
+lipid A biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+lipid binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+lipid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS5A02G0074000	TraesCS6B02G1274001	TraesCS3A01G0031000	TraesCS2B05G0017000
+lipid catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G0010400
+mRNA 5'-splice site recognition	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+mRNA binding	direct_prompt:deepseek-r1:8b	TraesCS1A03G0813700
+mRNA cis splicing, via spliceosome	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34G0641000
+mRNA cleavage and polyadenylation specificity factor complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS5B05G0082000
+mRNA destabilization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+mRNA guanylyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+mRNA metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+mRNA modification	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+mRNA processing	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+mRNA splice site recognition	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+mRNA stabilization	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+mRNA transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+multicellular organism development	direct_prompt:deepseek-r1:8b	TraesCS4A12B34G0841	TraesCS4A12B34G0842
+multicellular organismal-level water homeostasis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+myo-inositol hexakisphosphate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1291000
+myosin XI tail binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+myosin binding	direct_prompt:deepseek-r1:8b	TraesCS4Aa-9228D	TraesCS6B3B2G0872000
+myosin complex	direct_prompt:deepseek-r1:8b	TraesCS4AABB040015	TraesCS4AABB040016
+nascent polypeptide-associated complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A02B03G001100
+negative regulation of DNA metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844401
+negative regulation of DNA recombination	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+negative regulation of DNA-templated transcription	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS3B03G0035200
+negative regulation of autophagy	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+negative regulation of brassinosteroid mediated signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of catalytic activity	direct_prompt:deepseek-r1:8b	TraesCS6D03G0101800
+negative regulation of cell population proliferation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS3B02G0647000	TraesCS5A03G0088000	TraesCS4A02G0011000	TraesCS3A03G0015000
+negative regulation of cytokinin-activated signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of defense response	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of defense response to insect	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+negative regulation of defense response to virus	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+negative regulation of gene expression, epigenetic	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS4B03G0844401	TraesCS6A02G0581001
+negative regulation of growth	direct_prompt:deepseek-r1:8b	TraesCS6B02G0991000	TraesCS4A01G001200
+negative regulation of long-day photoperiodism, flowering	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0101000
+negative regulation of macromolecule biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of organ growth	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6C02G129100
+negative regulation of stomatal opening	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+negative regulation of transcription by RNA polymerase II	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of transcription elongation by RNA polymerase II	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+negative regulation of translation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+nicotianamine synthase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+nitrate metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G3G0011000
+nitrate reductase (NADPH) activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+nitrate transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+nitrate transmembrane transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+oligopeptide transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0860100
+oligopeptide transmembrane transporter activity	direct_prompt:deepseek-r1:8b	TraesCS7B02G1292000	TraesCS6A01G0011000
+oligopeptide transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+oligosaccharide biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+oligosaccharide metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+oligosaccharyltransferase complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+one-carbon compound transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+one-carbon metabolic process	direct_prompt:deepseek-r1:8b	TraesCS6B02G0061	TraesCS4A01G338140	TraesCS6B02G0062
+organelle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A03G0004800	TraesCS6A03G0001200	TraesCS6A02G003101	TraesCS4B03G0844410	TraesCS4B03G0844401
+pentose-phosphate shunt	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+peptidase activator activity	direct_prompt:deepseek-r1:8b	TraesCS6B03G0323600	TraesCS4A01G037100
+peptidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS4A01G0069000	TraesCS6A02G0578000
+phosphatidylinositol binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1293200
+phosphatidylinositol biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+phosphatidylinositol kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0120600
+phosphatidylinositol metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphatidylinositol phosphate biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphatidylinositol phosphate phosphatase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphatidylinositol-4,5-bisphosphate binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410
+phosphatidylserine biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0583000
+phosphoglycerate dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphoglycerate kinase activity	direct_prompt:deepseek-r1:8b	TraesCS6B03G0478800
+phosphoglycerate mutase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipase A2 activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipase C activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipase C-activating G protein-coupled receptor signaling pathway	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipase activator activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipase activity	direct_prompt:deepseek-r1:8b	TraesCS6B02G1292000	TraesCS4A01G001100300
+phospholipid binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+phospholipid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0034000	TraesCS5A03G0021000
+phospholipid transfer activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipid transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phospholipid transporter activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+phosphomannomutase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphomevalonate kinase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphoribosylanthranilate isomerase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphoric ester hydrolase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B03G0137100
+phosphorylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphotransferase activity, alcohol group as acceptor	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+phosphotransferase activity, phosphate group as acceptor	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+photoperiodism	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+photoreceptor activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A12G058100
+photosynthesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0082000	TraesCS5A03G0031000	TraesCS6A02G0083000
+photosynthesis, light reaction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4A97W05G001000	TraesCS4B03G0844411	TraesCS4A97W05G0011000
+photosystem	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+photosystem I	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844411	TraesCS4B03G0844412
+photosystem II	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0004300
+pigment biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G0011000	TraesCS6B02G0028000	TraesCS5A03G0011000
+pollen maturation	direct_prompt:deepseek-r1:8b	TraesCS6D03G0101800
+pollen tube development	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+pollen tube guidance	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0091000	TraesCS5B03G0082000	TraesCS6A02G0091001
+pollen tube tip	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1293200
+poly(U) RNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G006100	TraesCS6B03G0007500
+polyamine metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+polyamine transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+polyamine transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+potassium ion transmembrane transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+primary amino compound biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0010	TraesCS4A12V200000
+primary metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0581000	TraesCS4A12V000401290
+primary root development	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G003320100	TraesCS6B02G001700300
+procambium histogenesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+proline biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+proline catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+proline dehydrogenase activity	direct_prompt:deepseek-r1:8b	TraesCS6A03G0131200	TraesCS4B03G0844400
+promoter-specific chromatin binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+prostaglandin-E synthase activity	direct_prompt:deepseek-r1:8b	TraesCS3B03G0844400
+proteasomal protein catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+proteasome assembly	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+proteasome binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+proteasome complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A02G07G0000	TraesCS4B03G0844410
+proteasome core complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+proteasome core complex, beta-subunit complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+proteasome regulatory particle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+proteasome-mediated ubiquitin-dependent protein catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+protein binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+protein phosphorylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+protein-arginine N-methyltransferase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+rRNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+rRNA methylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+rRNA modification	direct_prompt:deepseek-r1:8b	TraesCS4A4B03G0844400	TraesCS4B03G0844401
+rRNA processing	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+regulation of DNA replication	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34F4428G
+regulation of DNA-templated DNA replication initiation	direct_prompt:deepseek-r1:8b	TraesCS4A12G0844400	TraesCS4A12G0844410	TraesCS4B03G0844400	TraesCS4A12G0844411	TraesCS4B03G0844401
+regulation of DNA-templated transcription	direct_prompt:deepseek-r1:8b	TraesCS4Aa-0001-0001	TraesCS4B03G0844400	TraesCS4B02G0101000
+regulation of defense response to insect	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+regulation of dephosphorylation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+regulation of developmental growth	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+regulation of developmental process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0082000
+regulation of division septum assembly	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000
+response to water	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V200000
+response to water deprivation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G1291000	TraesCS6B02G0999000
+response to wounding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+response to zinc ion	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G129100	TraesCS3A03G0021400
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0034000
+rhythmic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ribonuclease P RNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0071000
+ribonuclease P activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G338000
+ribonuclease P complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ribonuclease T2 activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ribonuclease inhibitor activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+ribonucleoprotein complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A97G1280000	TraesCS6B67D8F9EDC1
+root development	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS6A02G0582001
+root hair cell tip growth	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+root hair elongation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+root hair initiation	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+signal recognition particle	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+signal transduction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V200000	TraesCS6C01G1291000
+single strand break repair	direct_prompt:deepseek-r1:8b	TraesCS6B02G0844	TraesCS4A01G1275	TraesCS6B02G0840	TraesCS4B03G0844400
+single-stranded DNA 5'-3' DNA exonuclease activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+single-stranded DNA binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+single-stranded DNA helicase activity	direct_prompt:deepseek-r1:8b	TraesCS4A02G0844400	TraesCS4A03G0844401
+sister chromatid cohesion	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+small GTPase binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12B34G0544100
+small GTPase-mediated signal transduction	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G0844400
+small molecule binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+small molecule biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200	TraesCS5B03G008900
+small molecule metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+small ribosomal subunit	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0011000X
+spliceosomal complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000	TraesCS4B03G0844401
+spliceosomal complex assembly	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G129100	TraesCS6B02G058200	TraesCS1A01G001700	TraesCS2B03G0029600
+stamen development	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+starch binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+starch biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01H52G032100
+starch catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0305800
+starch metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G329320	TraesCS6B02G099420	TraesCS4A01G329330
+stearoyl-[ACP] desaturase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+steroid binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844399	TraesCS4B03G0844402	TraesCS4B03G0844401
+steroid biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844401	TraesCS4B03G0844402	TraesCS4B03G0844403
+steroid metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+sterol biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B02G0581000
+sterol transport	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000
+stomatal complex morphogenesis	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+strigolactone biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0581000
+structural constituent of chromatin	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000	TraesCS4B03G0844410
+structural constituent of cytoskeleton	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+structural constituent of ribosome	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+thiamine metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+thiol oxidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0130900
+thioredoxin peroxidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+threonine biosynthetic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+threonine catabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+threonine metabolic process	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A03G0131200
+threonine-type endopeptidase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G0031000	TraesCS4B03G0844401
+thylakoid	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A01G054500	TraesCS6B03G0137100
+toxin activity	direct_prompt:deepseek-r1:8b	TraesCS6D03G0101800
+transaldolase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transaminase activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A01G1291000
+transcription by RNA polymerase I	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V200000
+transcription by RNA polymerase II	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4A12V200000	TraesCS6B10G099D800
+transcription cis-regulatory region binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transcription coactivator activity	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transcription elongation by RNA polymerase II	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0541000
+transcription elongation factor complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transcription factor TFIID complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS4B03G0844410	TraesCS4B03G0844411	TraesCS4B03G0844412
+transcription factor binding	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0582000	TraesCS3A01G0101000
+transcription initiation at RNA polymerase I promoter	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6B03G0102000	TraesCS6B03G0101000	TraesCS4A01G037040	TraesCS4A03G0004800
+transcription initiation at RNA polymerase II promoter	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transcription initiation at RNA polymerase III promoter	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400	TraesCS6A02G0031000
+transcription regulator complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400
+transcription repressor complex	direct_prompt:deepseek-r1:8b	TraesCS4B03G0844400

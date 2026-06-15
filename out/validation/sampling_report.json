@@ -1,0 +1,188 @@
+{
+  "total_sets_selected": 25,
+  "total_new_genes_in_selection": 60,
+  "by_domain": {
+    "molecular_function": 21,
+    "biological_process": 4
+  },
+  "by_bucket": {
+    "small": 25
+  },
+  "gene_sets": [
+    {
+      "name": "leucine-tRNA ligase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "acetyl-CoA carboxylase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 5,
+      "n_converted": 6
+    },
+    {
+      "name": "1-acylglycerol-3-phosphate O-acyltransferase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "rRNA methylation",
+      "domain": "biological_process",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "3-dehydrosphinganine reductase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "4-hydroxyphenylpyruvate dioxygenase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "2 iron, 2 sulfur cluster binding",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 5,
+      "n_converted": 6
+    },
+    {
+      "name": "homoserine dehydrogenase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "3-isopropylmalate dehydratase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 2,
+      "n_converted": 2
+    },
+    {
+      "name": "hexosyltransferase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "acetolactate synthase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "pentose-phosphate shunt",
+      "domain": "biological_process",
+      "bucket": "small",
+      "n_new_genes": 5,
+      "n_converted": 6
+    },
+    {
+      "name": "geranyltranstransferase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "3-deoxy-7-phosphoheptulonate synthase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 2,
+      "n_converted": 2
+    },
+    {
+      "name": "myosin XI tail binding",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "(S)-2-hydroxy-acid oxidase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "glutamate catabolic process",
+      "domain": "biological_process",
+      "bucket": "small",
+      "n_new_genes": 4,
+      "n_converted": 4
+    },
+    {
+      "name": "2-isopropylmalate synthase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 2,
+      "n_converted": 2
+    },
+    {
+      "name": "3-isopropylmalate dehydrogenase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 2,
+      "n_converted": 2
+    },
+    {
+      "name": "1-deoxy-D-xylulose-5-phosphate reductoisomerase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 3,
+      "n_converted": 3
+    },
+    {
+      "name": "'de novo' NAD biosynthetic process from aspartate",
+      "domain": "biological_process",
+      "bucket": "small",
+      "n_new_genes": 1,
+      "n_converted": 1
+    },
+    {
+      "name": "homoserine kinase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 2,
+      "n_converted": 2
+    },
+    {
+      "name": "histone H3K27 methyltransferase activity",
+      "domain": "molecular_function",
+      "bucket": "small",
+      "n_new_genes": 4,
+      "n_converted": 4
+    }
+  ]
+}

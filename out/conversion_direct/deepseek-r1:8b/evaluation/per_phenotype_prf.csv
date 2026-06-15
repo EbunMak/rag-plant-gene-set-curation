@@ -1,0 +1,483 @@
+Gene Set Name,Precision,Recall,F1
+'de novo' CTP biosynthetic process,0.0,0.0,0.0
+'de novo' L-methionine biosynthetic process,0.0,0.0,0.0
+'de novo' cotranslational protein folding,0.0,0.0,0.0
+'de novo' pyrimidine nucleobase biosynthetic process,0.0,0.0,0.0
+(1->3)-beta-D-glucan biosynthetic process,0.0,0.0,0.0
+"1,3-beta-D-glucan synthase activity",0.0,0.0,0.0
+"1,4-alpha-glucan branching enzyme activity",0.0,0.0,0.0
+"1,4-alpha-oligoglucan phosphorylase activity",0.0,0.0,0.0
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity,0.0,0.0,0.0
+10-formyltetrahydrofolate biosynthetic process,0.0,0.0,0.0
+15-cis-phytoene synthase activity,0.0,0.0,0.0
+"2 iron, 2 sulfur cluster binding",0.0,0.0,0.0
+"2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity",0.0,0.0,0.0
+2-(3-amino-3-carboxypropyl)histidine synthase activity,0.0,0.0,0.0
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity,0.0,0.0,0.0
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity,0.0,0.0,0.0
+2-isopropylmalate synthase activity,0.0,0.0,0.0
+"2-methyl-6-phytyl-1,4-benzoquinone methyltransferase activity",0.0,0.0,0.0
+"3 iron, 4 sulfur cluster binding",0.0,0.0,0.0
+3''-deamino-3''-oxonicotianamine reductase activity,0.0,0.0,0.0
+"3'(2'),5'-bisphosphate nucleotidase activity",0.0,0.0,0.0
+3'-5' DNA helicase activity,0.0,0.0,0.0
+3'-5' exonuclease activity,0.0,0.0,0.0
+3'-5'-DNA exonuclease activity,0.0,0.0,0.0
+3'-5'-RNA exonuclease activity,0.0,0.0,0.0
+3'-tRNA processing endoribonuclease activity,0.0,0.0,0.0
+3-dehydroquinate dehydratase activity,0.0,0.0,0.0
+3-isopropylmalate dehydratase activity,0.0,0.0,0.0
+3-isopropylmalate dehydrogenase activity,0.0,0.0,0.0
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity,0.0,0.0,0.0
+3-phosphoshikimate 1-carboxyvinyltransferase activity,0.0,0.0,0.0
+4-alpha-glucanotransferase activity,0.0,0.0,0.0
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity (ferredoxin),0.0,0.0,0.0
+5'-3' DNA exonuclease activity,0.0,0.0,0.0
+5'-3' DNA helicase activity,0.0,0.0,0.0
+5'-3' RNA exonuclease activity,0.0,0.0,0.0
+5'-3' exonuclease activity,0.0,0.0,0.0
+5'-deoxyribose-5-phosphate lyase activity,0.0,0.0,0.0
+5'-nucleotidase activity,0.0,0.0,0.0
+5-diphosphoinositol pentakisphosphate 1-kinase activity,0.0,0.0,0.0
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity,0.0,0.0,0.0
+5S rRNA binding,0.0,0.0,0.0
+6-phosphofructo-2-kinase activity,0.0,0.0,0.0
+6-phosphofructokinase activity,0.0,0.0,0.0
+7S RNA binding,0.0,0.0,0.0
+"9,9'-di-cis-zeta-carotene desaturase activity",0.0,0.0,0.0
+90S preribosome,0.0,0.0,0.0
+ABC-type protein transporter activity,0.0,0.0,0.0
+ABC-type transporter activity,0.0,0.0,0.0
+ADP binding,0.0,0.0,0.0
+AP-1 adaptor complex,0.0,0.0,0.0
+AP-2 adaptor complex,0.0,0.0,0.0
+AP-3 adaptor complex,0.0,0.0,0.0
+ATP binding,0.0,0.0,0.0
+ATPase binding,0.0,0.0,0.0
+DIMBOA glucoside beta-D-glucosidase activity,0.0,0.0,0.0
+DNA (cytosine-5-)-methyltransferase activity,0.0,0.0,0.0
+DNA alkylation repair,0.0,0.0,0.0
+DNA binding,0.0,0.0,0.0
+DNA-(apurinic or apyrimidinic site) endonuclease activity,0.0,0.0,0.0
+GDP-mannose metabolic process,0.0,0.0,0.0
+GINS complex,0.0,0.0,0.0
+Golgi apparatus,0.0,0.0,0.0
+N-terminal protein myristoylation,0.0,0.0,0.0
+N6-methyladenosine-containing RNA reader activity,0.0,0.0,0.0
+NAD biosynthetic process,0.0,0.0,0.0
+NAD metabolic process,0.0,0.0,0.0
+NAD(P)H dehydrogenase complex (plastoquinone),0.0,0.0,0.0
+NAD(P)HX epimerase activity,0.0,0.0,0.0
+NAD+ kinase activity,0.0,0.0,0.0
+NAD-dependent protein lysine deacetylase activity,0.0,0.0,0.0
+NADH dehydrogenase (ubiquinone) activity,0.0,0.0,0.0
+NADH dehydrogenase activity,0.0,0.0,0.0
+NADH dehydrogenase complex (plastoquinone) assembly,0.0,0.0,0.0
+NADH oxidation,0.0,0.0,0.0
+NADP binding,0.0,0.0,0.0
+NADP biosynthetic process,0.0,0.0,0.0
+NADP metabolic process,0.0,0.0,0.0
+RNA-templated DNA biosynthetic process,0.0,0.0,0.0
+RQC-trigger complex,0.0,0.0,0.0
+Rho protein signal transduction,0.0,0.0,0.0
+TOR signaling,0.0,0.0,0.0
+abscisic acid-activated signaling pathway,0.0,0.0,0.0
+acceptance of pollen,0.0,0.0,0.0
+acetate-CoA ligase activity,0.0,0.0,0.0
+acetolactate synthase activity,0.0,0.0,0.0
+acetolactate synthase regulator activity,0.0,0.0,0.0
+acetyl-CoA biosynthetic process from pyruvate,0.0,0.0,0.0
+acetyl-CoA carboxylase activity,0.0,0.0,0.0
+acetyl-CoA metabolic process,0.0,0.0,0.0
+acetylglutamate kinase activity,0.0,0.0,0.0
+acid phosphatase activity,0.0,0.0,0.0
+acid-amino acid ligase activity,0.0,0.0,0.0
+aconitate hydratase activity,0.0,0.0,0.0
+actin cytoskeleton,0.0,0.0,0.0
+actin cytoskeleton organization,0.0,0.0,0.0
+actin filament bundle,0.0,0.0,0.0
+actin filament bundle assembly,0.0,0.0,0.0
+actin filament capping,0.0,0.0,0.0
+actin filament depolymerization,0.0,0.0,0.0
+actin filament organization,0.0,0.0,0.0
+actin filament polymerization,0.0,0.0,0.0
+actin filament severing,0.0,0.0,0.0
+actin filament-based process,0.0,0.0,0.0
+actin nucleation,0.0,0.0,0.0
+activation of protein kinase activity,0.0,0.0,0.0
+acyl-CoA dehydrogenase activity,0.0,0.0,0.0
+acyl-CoA metabolic process,0.0,0.0,0.0
+acyl-CoA oxidase activity,0.0,0.0,0.0
+acylglycerol transport,0.0,0.0,0.0
+acyltransferase activity,0.0,0.0,0.0
+adenosine kinase activity,0.0,0.0,0.0
+adenosine salvage,0.0,0.0,0.0
+adenosylmethionine decarboxylase activity,0.0,0.0,0.0
+adenyl ribonucleotide binding,0.0,0.0,0.0
+adenyl-nucleotide exchange factor activity,0.0,0.0,0.0
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,0.0,0.0,0.0
+adenylate kinase activity,0.0,0.0,0.0
+adenylosuccinate synthase activity,0.0,0.0,0.0
+adenylyltransferase activity,0.0,0.0,0.0
+allantoin catabolic process,0.0,0.0,0.0
+amine metabolic process,0.0,0.0,0.0
+amino acid biosynthetic process,0.0,0.0,0.0
+amino acid metabolic process,0.0,0.0,0.0
+amino acid transmembrane transport,0.0,0.0,0.0
+amino acid transmembrane transporter activity,0.0,0.0,0.0
+amino acid transport,0.0,0.0,0.0
+aminopeptidase activity,0.0,0.0,0.0
+amyloplast,0.0,0.0,0.0
+anaphase-promoting complex binding,0.0,0.0,0.0
+anaphase-promoting complex-dependent catabolic process,0.0,0.0,0.0
+anatomical structure morphogenesis,0.0,0.0,0.0
+anchoring junction,0.0,0.0,0.0
+anther development,0.0,0.0,0.0
+anthranilate phosphoribosyltransferase activity,0.0,0.0,0.0
+anthranilate synthase activity,0.0,0.0,0.0
+anthranilate synthase complex,0.0,0.0,0.0
+antioxidant activity,0.0,0.0,0.0
+apoplast,0.0,0.0,0.0
+arachidonate secretion,0.0,0.0,0.0
+arginase activity,0.0,0.0,0.0
+arginine catabolic process,0.0,0.0,0.0
+arginine metabolic process,0.0,0.0,0.0
+argininosuccinate lyase activity,0.0,0.0,0.0
+argininosuccinate synthase activity,0.0,0.0,0.0
+arginyl-tRNA aminoacylation,0.0,0.0,0.0
+arginyl-tRNA--protein transferase activity,0.0,0.0,0.0
+aromatic amino acid family biosynthetic process,0.0,0.0,0.0
+"aromatic amino acid family biosynthetic process, prephenate pathway",0.0,0.0,0.0
+aromatic amino acid metabolic process,0.0,0.0,0.0
+asparagine biosynthetic process,0.0,0.0,0.0
+asparagine synthase (glutamine-hydrolyzing) activity,0.0,0.0,0.0
+asparagine-tRNA ligase activity,0.0,0.0,0.0
+asparaginyl-tRNA aminoacylation,0.0,0.0,0.0
+aspartate kinase activity,0.0,0.0,0.0
+aspartate-prephenate aminotransferase activity,0.0,0.0,0.0
+asymmetric cell division,0.0,0.0,0.0
+bis(5'-adenosyl)-triphosphatase activity,0.0,0.0,0.0
+bounding membrane of organelle,0.0,0.0,0.0
+branched-chain amino acid biosynthetic process,0.0,0.0,0.0
+branched-chain amino acid catabolic process,0.0,0.0,0.0
+branched-chain amino acid metabolic process,0.0,0.0,0.0
+branched-chain-amino-acid transaminase activity,0.0,0.0,0.0
+calcium import into the mitochondrion,0.0,0.0,0.0
+calcium ion binding,0.0,0.0,0.0
+calcium ion transmembrane transport,0.0,0.0,0.0
+calcium ion transport,0.0,0.0,0.0
+calcium-dependent phospholipid binding,0.0,0.0,0.0
+calcium-dependent protein binding,0.0,0.0,0.0
+calcium-mediated signaling,0.0,0.0,0.0
+callose deposition in cell wall,0.0,0.0,0.0
+calmodulin binding,0.0,0.0,0.0
+carbohydrate binding,0.0,0.0,0.0
+carbohydrate metabolic process,0.0,0.0,0.0
+defense response to fungus,0.0,0.0,0.0
+defense response to other organism,0.0,0.0,0.0
+dehydrodolichyl diphosphate synthase complex,0.0,0.0,0.0
+delta DNA polymerase complex,0.0,0.0,0.0
+deoxyhypusine monooxygenase activity,0.0,0.0,0.0
+deoxyhypusine synthase activity,0.0,0.0,0.0
+deoxyribodipyrimidine photo-lyase activity,0.0,0.0,0.0
+deoxyribonucleotide biosynthetic process,0.0,0.0,0.0
+deoxyribonucleotide catabolic process,0.0,0.0,0.0
+dephospho-CoA kinase activity,0.0,0.0,0.0
+dephosphorylation,0.0,0.0,0.0
+detection of hypoxia,0.0,0.0,0.0
+detection of mechanical stimulus,0.0,0.0,0.0
+detection of stimulus,0.0,0.0,0.0
+dethiobiotin synthase activity,0.0,0.0,0.0
+detoxification,0.0,0.0,0.0
+deubiquitinase activity,0.0,0.0,0.0
+developmental growth,0.0,0.0,0.0
+developmental process,0.0,0.0,0.0
+developmental process involved in reproduction,0.0,0.0,0.0
+diaminopimelate biosynthetic process,0.0,0.0,0.0
+dicarboxylic acid metabolic process,0.0,0.0,0.0
+dicarboxylic acid transmembrane transporter activity,0.0,0.0,0.0
+digalactosyldiacylglycerol synthase activity,0.0,0.0,0.0
+dihydrolipoyl dehydrogenase activity,0.0,0.0,0.0
+dihydrolipoyllysine-residue acetyltransferase activity,0.0,0.0,0.0
+dihydropteroate synthase activity,0.0,0.0,0.0
+dimethylallyl diphosphate biosynthetic process,0.0,0.0,0.0
+dipeptidase activity,0.0,0.0,0.0
+dipeptide transmembrane transport,0.0,0.0,0.0
+dipeptide transmembrane transporter activity,0.0,0.0,0.0
+dipeptide transport,0.0,0.0,0.0
+gene expression,0.0,0.0,0.0
+gibberellin 3-beta-dioxygenase activity,0.0,0.0,0.0
+gibberellin biosynthetic process,0.0,0.0,0.0
+gibberellin metabolic process,0.0,0.0,0.0
+glucan metabolic process,0.0,0.0,0.0
+gluconeogenesis,0.0,0.0,0.0
+glucose 6-phosphate metabolic process,0.0,0.0,0.0
+glucose catabolic process,0.0,0.0,0.0
+glucose-6-phosphate 1-epimerase activity,0.0,0.0,0.0
+glucose-6-phosphate dehydrogenase activity,0.0,0.0,0.0
+glucose-6-phosphate isomerase activity,0.0,0.0,0.0
+glucosinolate biosynthetic process,0.0,0.0,0.0
+glucosinolate metabolic process,0.0,0.0,0.0
+glucosylceramide catabolic process,0.0,0.0,0.0
+glucosyltransferase activity,0.0,0.0,0.0
+glucuronosyltransferase activity,0.0,0.0,0.0
+glutamate 5-kinase activity,0.0,0.0,0.0
+glutamate N-acetyltransferase activity,0.0,0.0,0.0
+glutamate biosynthetic process,0.0,0.0,0.0
+glutamate catabolic process,0.0,0.0,0.0
+glutamate decarboxylase activity,0.0,0.0,0.0
+glutamate-5-semialdehyde dehydrogenase activity,0.0,0.0,0.0
+glutamate-cysteine ligase activity,0.0,0.0,0.0
+glutamate-prephenate aminotransferase activity,0.0,0.0,0.0
+glutamate-tRNA ligase activity,0.0,0.0,0.0
+glutaminase activity,0.0,0.0,0.0
+glutamine biosynthetic process,0.0,0.0,0.0
+glutamine family amino acid biosynthetic process,0.0,0.0,0.0
+glutamine family amino acid metabolic process,0.0,0.0,0.0
+glutamine synthetase activity,0.0,0.0,0.0
+glutamine-tRNA ligase activity,0.0,0.0,0.0
+glutaminyl-tRNA aminoacylation,0.0,0.0,0.0
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity,0.0,0.0,0.0
+glutamyl-tRNA aminoacylation,0.0,0.0,0.0
+glutamyl-tRNA(Gln) amidotransferase complex,0.0,0.0,0.0
+glutathione binding,0.0,0.0,0.0
+glutathione biosynthetic process,0.0,0.0,0.0
+glutathione catabolic process,0.0,0.0,0.0
+glutathione dehydrogenase (ascorbate) activity,0.0,0.0,0.0
+glutathione gamma-glutamylcysteinyltransferase activity,0.0,0.0,0.0
+glutathione metabolic process,0.0,0.0,0.0
+glutathione synthase activity,0.0,0.0,0.0
+glutathione transferase activity,0.0,0.0,0.0
+glutathione-disulfide reductase (NADPH) activity,0.0,0.0,0.0
+glyceraldehyde-3-phosphate metabolic process,0.0,0.0,0.0
+glycerol metabolic process,0.0,0.0,0.0
+glycerol-3-phosphate O-acyltransferase activity,0.0,0.0,0.0
+glycerol-3-phosphate catabolic process,0.0,0.0,0.0
+glycerol-3-phosphate dehydrogenase (NAD+) activity,0.0,0.0,0.0
+glycerol-3-phosphate metabolic process,0.0,0.0,0.0
+glycerolipid biosynthetic process,0.0,0.0,0.0
+glycerophospholipid metabolic process,0.0,0.0,0.0
+glycine biosynthetic process from serine,0.0,0.0,0.0
+glycine decarboxylation via glycine cleavage system,0.0,0.0,0.0
+glycine dehydrogenase (decarboxylating) activity,0.0,0.0,0.0
+glycine hydroxymethyltransferase activity,0.0,0.0,0.0
+glycine:2-oxoglutarate aminotransferase activity,0.0,0.0,0.0
+glycogen biosynthetic process,0.0,0.0,0.0
+glycogen metabolic process,0.0,0.0,0.0
+glycogen phosphorylase activity,0.0,0.0,0.0
+glycolipid biosynthetic process,0.0,0.0,0.0
+glycolipid mannosyltransferase activity,0.0,0.0,0.0
+glycolytic process through fructose-6-phosphate,0.0,0.0,0.0
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex,0.0,0.0,0.0
+glycosyltransferase activity,0.0,0.0,0.0
+glycyl-tRNA aminoacylation,0.0,0.0,0.0
+heterocyclic compound binding,0.0,0.0,0.0
+heterotrimeric G-protein complex,0.0,0.0,0.0
+hexokinase activity,0.0,0.0,0.0
+hexose metabolic process,0.0,0.0,0.0
+hexose transmembrane transport,0.0,0.0,0.0
+hexosyltransferase activity,0.0,0.0,0.0
+histidinol dehydrogenase activity,0.0,0.0,0.0
+histidinol-phosphatase activity,0.0,0.0,0.0
+histidinol-phosphate transaminase activity,0.0,0.0,0.0
+histone H3K27 methyltransferase activity,0.0,0.0,0.0
+histone H3K4 methyltransferase activity,0.0,0.0,0.0
+histone acetyltransferase activity,0.0,0.0,0.0
+histone acetyltransferase complex,0.0,0.0,0.0
+histone arginine N-methyltransferase activity,0.0,0.0,0.0
+histone deacetylase complex,0.0,0.0,0.0
+"homogentisate 1,2-dioxygenase activity",0.0,0.0,0.0
+late endosome to vacuole transport via multivesicular body sorting pathway,0.0,0.0,0.0
+leaf morphogenesis,0.0,0.0,0.0
+leaf senescence,0.0,0.0,0.0
+leucine-tRNA ligase activity,0.0,0.0,0.0
+leucyl-tRNA aminoacylation,0.0,0.0,0.0
+ligand-gated monoatomic ion channel activity,0.0,0.0,0.0
+ligase activity,0.0,0.0,0.0
+lignin biosynthetic process,0.0,0.0,0.0
+lignin catabolic process,0.0,0.0,0.0
+lignin metabolic process,0.0,0.0,0.0
+lipid A biosynthetic process,0.0,0.0,0.0
+lipid binding,0.0,0.0,0.0
+lipid biosynthetic process,0.0,0.0,0.0
+lipid catabolic process,0.0,0.0,0.0
+mRNA 5'-splice site recognition,0.0,0.0,0.0
+mRNA binding,0.0,0.0,0.0
+"mRNA cis splicing, via spliceosome",0.0,0.0,0.0
+mRNA cleavage and polyadenylation specificity factor complex,0.0,0.0,0.0
+mRNA destabilization,0.0,0.0,0.0
+mRNA guanylyltransferase activity,0.0,0.0,0.0
+mRNA metabolic process,0.0,0.0,0.0
+mRNA modification,0.0,0.0,0.0
+mRNA processing,0.0,0.0,0.0
+mRNA splice site recognition,0.0,0.0,0.0
+mRNA stabilization,0.0,0.0,0.0
+mRNA transport,0.0,0.0,0.0
+multicellular organism development,0.0,0.0,0.0
+multicellular organismal-level water homeostasis,0.0,0.0,0.0
+myo-inositol hexakisphosphate biosynthetic process,0.0,0.0,0.0
+myosin XI tail binding,0.0,0.0,0.0
+myosin binding,0.0,0.0,0.0
+myosin complex,0.0,0.0,0.0
+nascent polypeptide-associated complex,0.0,0.0,0.0
+negative regulation of DNA metabolic process,0.0,0.0,0.0
+negative regulation of DNA recombination,0.0,0.0,0.0
+negative regulation of DNA-templated transcription,0.0,0.0,0.0
+negative regulation of autophagy,0.0,0.0,0.0
+negative regulation of brassinosteroid mediated signaling pathway,0.0,0.0,0.0
+negative regulation of catalytic activity,0.0,0.0,0.0
+negative regulation of cell population proliferation,0.0,0.0,0.0
+negative regulation of cytokinin-activated signaling pathway,0.0,0.0,0.0
+negative regulation of defense response,0.0,0.0,0.0
+negative regulation of defense response to insect,0.0,0.0,0.0
+negative regulation of defense response to virus,0.0,0.0,0.0
+"negative regulation of gene expression, epigenetic",0.0,0.0,0.0
+negative regulation of growth,0.0,0.0,0.0
+"negative regulation of long-day photoperiodism, flowering",0.0,0.0,0.0
+negative regulation of macromolecule biosynthetic process,0.0,0.0,0.0
+negative regulation of organ growth,0.0,0.0,0.0
+negative regulation of stomatal opening,0.0,0.0,0.0
+negative regulation of transcription by RNA polymerase II,0.0,0.0,0.0
+negative regulation of transcription elongation by RNA polymerase II,0.0,0.0,0.0
+negative regulation of translation,0.0,0.0,0.0
+nicotianamine synthase activity,0.0,0.0,0.0
+nitrate metabolic process,0.0,0.0,0.0
+nitrate reductase (NADPH) activity,0.0,0.0,0.0
+nitrate transmembrane transport,0.0,0.0,0.0
+nitrate transmembrane transporter activity,0.0,0.0,0.0
+oligosaccharide biosynthetic process,0.0,0.0,0.0
+oligosaccharide metabolic process,0.0,0.0,0.0
+peptidase activator activity,0.0,0.0,0.0
+phosphatidylinositol binding,0.0,0.0,0.0
+phosphatidylinositol biosynthetic process,0.0,0.0,0.0
+phosphatidylinositol kinase activity,0.0,0.0,0.0
+phosphatidylinositol metabolic process,0.0,0.0,0.0
+phosphatidylinositol phosphate biosynthetic process,0.0,0.0,0.0
+"phosphatidylinositol-4,5-bisphosphate binding",0.0,0.0,0.0
+phosphatidylserine biosynthetic process,0.0,0.0,0.0
+phosphoglycerate dehydrogenase activity,0.0,0.0,0.0
+phosphoglycerate kinase activity,1.0,0.058823529411764705,0.1111111111111111
+phosphoglycerate mutase activity,0.0,0.0,0.0
+phospholipase A2 activity,0.0,0.0,0.0
+phospholipase C activity,0.0,0.0,0.0
+phospholipase C-activating G protein-coupled receptor signaling pathway,0.0,0.0,0.0
+phospholipase activator activity,0.0,0.0,0.0
+phospholipase activity,0.0,0.0,0.0
+phospholipid binding,0.0,0.0,0.0
+phospholipid biosynthetic process,0.0,0.0,0.0
+phospholipid metabolic process,0.0,0.0,0.0
+phospholipid transfer activity,0.0,0.0,0.0
+phospholipid transport,0.0,0.0,0.0
+phospholipid transporter activity,0.0,0.0,0.0
+phosphomannomutase activity,0.0,0.0,0.0
+phosphomevalonate kinase activity,0.0,0.0,0.0
+phosphoribosylanthranilate isomerase activity,0.0,0.0,0.0
+phosphoric ester hydrolase activity,0.0,0.0,0.0
+phosphorylation,0.0,0.0,0.0
+"phosphotransferase activity, alcohol group as acceptor",0.0,0.0,0.0
+"phosphotransferase activity, phosphate group as acceptor",0.0,0.0,0.0
+photoreceptor activity,0.0,0.0,0.0
+photosynthesis,0.0,0.0,0.0
+"photosynthesis, light reaction",0.0,0.0,0.0
+photosystem,0.0,0.0,0.0
+photosystem I,0.0,0.0,0.0
+photosystem II,0.0,0.0,0.0
+pigment biosynthetic process,0.0,0.0,0.0
+pollen maturation,0.0,0.0,0.0
+pollen tube development,0.0,0.0,0.0
+pollen tube tip,0.0,0.0,0.0
+poly(U) RNA binding,0.0,0.0,0.0
+polyamine metabolic process,0.0,0.0,0.0
+polyamine transmembrane transport,0.0,0.0,0.0
+potassium ion transmembrane transport,0.0,0.0,0.0
+primary amino compound biosynthetic process,0.0,0.0,0.0
+primary metabolic process,0.0,0.0,0.0
+primary root development,0.0,0.0,0.0
+procambium histogenesis,0.0,0.0,0.0
+proline biosynthetic process,0.0,0.0,0.0
+proline catabolic process,0.0,0.0,0.0
+proline dehydrogenase activity,0.0,0.0,0.0
+promoter-specific chromatin binding,0.0,0.0,0.0
+prostaglandin-E synthase activity,0.0,0.0,0.0
+proteasomal protein catabolic process,0.0,0.0,0.0
+proteasome assembly,0.0,0.0,0.0
+proteasome binding,0.0,0.0,0.0
+proteasome complex,0.0,0.0,0.0
+proteasome core complex,0.0,0.0,0.0
+"proteasome core complex, beta-subunit complex",0.0,0.0,0.0
+proteasome regulatory particle,0.0,0.0,0.0
+proteasome-mediated ubiquitin-dependent protein catabolic process,0.0,0.0,0.0
+protein binding,0.0,0.0,0.0
+protein phosphorylation,0.0,0.0,0.0
+protein-arginine N-methyltransferase activity,0.0,0.0,0.0
+rRNA binding,0.0,0.0,0.0
+regulation of defense response to insect,0.0,0.0,0.0
+regulation of dephosphorylation,0.0,0.0,0.0
+regulation of division septum assembly,0.0,0.0,0.0
+response to water,0.0,0.0,0.0
+response to water deprivation,0.0,0.0,0.0
+response to wounding,0.0,0.0,0.0
+response to zinc ion,0.0,0.0,0.0
+"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",0.0,0.0,0.0
+rhythmic process,0.0,0.0,0.0
+ribonuclease P complex,0.0,0.0,0.0
+ribonuclease inhibitor activity,0.0,0.0,0.0
+ribonucleoprotein complex,0.0,0.0,0.0
+root development,0.0,0.0,0.0
+root hair cell tip growth,0.0,0.0,0.0
+root hair elongation,0.0,0.0,0.0
+root hair initiation,0.0,0.0,0.0
+signal recognition particle,0.0,0.0,0.0
+signal transduction,0.0,0.0,0.0
+single strand break repair,0.0,0.0,0.0
+single-stranded DNA 5'-3' DNA exonuclease activity,0.0,0.0,0.0
+single-stranded DNA binding,0.0,0.0,0.0
+single-stranded DNA helicase activity,0.0,0.0,0.0
+sister chromatid cohesion,0.0,0.0,0.0
+small GTPase binding,0.0,0.0,0.0
+small GTPase-mediated signal transduction,0.0,0.0,0.0
+small molecule binding,0.0,0.0,0.0
+small molecule biosynthetic process,0.0,0.0,0.0
+small molecule metabolic process,0.0,0.0,0.0
+small ribosomal subunit,0.0,0.0,0.0
+spliceosomal complex,0.0,0.0,0.0
+spliceosomal complex assembly,0.0,0.0,0.0
+stamen development,0.0,0.0,0.0
+starch binding,0.0,0.0,0.0
+starch biosynthetic process,0.0,0.0,0.0
+starch catabolic process,0.0,0.0,0.0
+starch metabolic process,0.0,0.0,0.0
+stearoyl-[ACP] desaturase activity,0.0,0.0,0.0
+steroid binding,0.0,0.0,0.0
+steroid biosynthetic process,0.0,0.0,0.0
+steroid metabolic process,0.0,0.0,0.0
+sterol biosynthetic process,0.0,0.0,0.0
+sterol transport,0.0,0.0,0.0
+stomatal complex morphogenesis,0.0,0.0,0.0
+strigolactone biosynthetic process,0.0,0.0,0.0
+structural constituent of chromatin,0.0,0.0,0.0
+structural constituent of cytoskeleton,0.0,0.0,0.0
+structural constituent of ribosome,0.0,0.0,0.0
+thiamine metabolic process,0.0,0.0,0.0
+thiol oxidase activity,0.0,0.0,0.0
+thioredoxin peroxidase activity,0.0,0.0,0.0
+threonine biosynthetic process,0.0,0.0,0.0
+threonine catabolic process,0.0,0.0,0.0
+threonine-type endopeptidase activity,0.0,0.0,0.0
+thylakoid,0.0,0.0,0.0
+toxin activity,0.0,0.0,0.0
+transaldolase activity,0.0,0.0,0.0
+transaminase activity,0.0,0.0,0.0
+transcription by RNA polymerase I,0.0,0.0,0.0
+transcription by RNA polymerase II,0.0,0.0,0.0
+transcription cis-regulatory region binding,0.0,0.0,0.0
+transcription coactivator activity,0.0,0.0,0.0
+transcription elongation by RNA polymerase II,0.0,0.0,0.0
+transcription elongation factor complex,0.0,0.0,0.0
+transcription factor TFIID complex,0.0,0.0,0.0
+transcription factor binding,0.0,0.0,0.0
+transcription initiation at RNA polymerase I promoter,0.0,0.0,0.0
+transcription initiation at RNA polymerase II promoter,0.0,0.0,0.0
+transcription initiation at RNA polymerase III promoter,0.0,0.0,0.0
+transcription regulator complex,0.0,0.0,0.0
+transcription repressor complex,0.0,0.0,0.0
